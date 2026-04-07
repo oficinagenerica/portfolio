@@ -1,0 +1,448 @@
+{
+  "meta": {
+    "version": "portfolio_system_v2",
+    "counts": {
+      "featured_cases_total": 7,
+      "level_2_projects_total": 17
+    }
+  },
+  "featured_cases": [
+    {
+      "case_id": "featured_01",
+      "source_project_slugs": ["bbva-institutionalizing-data-driven-design-across-the-organization"],
+      "title": "Embedding data into design decision-making",
+      "specialty": "Design Strategy",
+      "filter": "OPERATIONS",
+      "keywords": ["Data-Informed Design", "Decision Systems", "Capability Building", "Measurement", "Banking"],
+      "framing": "BBVA had multiple internal data sources and analytical tools available to design teams, but availability alone was not translating into practice. Knowledge was uneven, access was partial, and the use of data in everyday design work lacked a shared structure.\n\nThe challenge was not simply to expose teams to more analytics, but to turn data into something usable inside the design process — so that research, hypotheses, prioritization, and evaluation could be grounded in evidence rather than convenience or intuition.",
+      "shift": "From — Data available but weakly embedded in practice\nTo — A structured, measurable, data-informed design practice",
+      "contribution": "Co-designed and implemented the program to institutionalize data-informed design across the organization.\n\nMy work focused on translating the internal data ecosystem into usable design logic, structuring frameworks and rituals around it, and helping embed data into decision-making, team habits, and project workflows.",
+      "key_moves_and_learnings": [
+        "— Mapped the internal data ecosystem and its points of friction\n— Clarified what was available, what was unknown, and where access or literacy gaps were blocking use",
+        "— Turned data sources into design tools rather than technical abstractions\n— Helped designers understand when and how to use different inputs inside their process",
+        "— Structured the practice through playbooks, rituals, and enablement formats\n— Embedded data into recurring workflows instead of treating it as optional support",
+        "— Built reinforcement mechanisms around learning and adoption\n— Combined capability building with practical examples, communication, and continuous follow-up",
+        "— Measured the evolution of the practice over time\n— Used KPIs to understand where adoption was growing and where structural barriers still remained"
+      ],
+      "outcome": [
+        "Data tagging with a design perspective reached 79% of projects",
+        "Consumption of accumulated Adobe Analytics information reached 67% of projects",
+        "Knowledge of the three most popular data tools reached 84–87% of the team",
+        "The discipline gained a clearer, more consistent way of incorporating data into design decisions"
+      ]
+    },
+    {
+      "case_id": "featured_02",
+      "source_project_slugs": ["bbva-operationalizing-the-implementation-framework-for-global-positioning"],
+      "title": "Turning Global Strategy into an Executable Program",
+      "specialty": "Organizational Strategy",
+      "filter": "STRATEGY",
+      "keywords": ["Strategy Execution", "Organizational Alignment", "Product Development", "Operating Models", "Banking"],
+      "framing": "BBVA's global positioning introduced a new strategic narrative centered on a radical customer perspective.\n\nHowever, the strategy was highly conceptual, leaving room for multiple interpretations and making it difficult to translate into concrete product, service, and experience decisions — especially in parallel with a design system relaunch and ongoing product delivery cycles.",
+      "shift": "From — Abstract strategic narrative open to interpretation\nTo — A structured program aligned with product delivery and team execution",
+      "contribution": "Structured and facilitated the translation of global strategy into an executable program.\n\nFocused on connecting the strategic narrative to concrete ways of building products, services, and experiences, aligning design, technology, and business teams around a shared direction that could operate within existing delivery rhythms.",
+      "key_moves_and_learnings": [
+        "— Identified abstraction as the core barrier to execution\n— The strategy aligned at a narrative level, but not at a decision-making level",
+        "— Translated the positioning into actionable lenses for product and service design\n— Helped teams understand how the strategy should shape what they build",
+        "— Structured the work to align with product release rhythms\n— Enabled integration into ongoing delivery instead of creating parallel tracks",
+        "— Facilitated alignment across design, technology, and business\n— Reduced divergent interpretations and created shared direction",
+        "— Framed execution as a program, not a one-off translation\n— Enabled continuous delivery rather than static strategy"
+      ],
+      "outcome": [
+        "Clearer connection between global strategy and day-to-day product and service decisions",
+        "Reduced ambiguity in how teams interpret and apply the strategy",
+        "Increased coherence in company output, with product and service teams delivering consistently aligned efforts toward the new positioning"
+      ]
+    },
+    {
+      "case_id": "featured_03",
+      "source_project_slugs": ["bbva-designing-the-operating-model-for-a-135-person-design-discipline"],
+      "title": "Turning a design discipline into a measurable and evolving system",
+      "specialty": "Organizational Strategy",
+      "filter": "OPERATIONS",
+      "keywords": ["Design Operations", "OKRs", "Organizational Design", "Strategy Alignment", "Performance Systems"],
+      "framing": "As BBVA's design discipline grew in scale and strategic importance, it lacked a unified system to consistently track its contribution to business objectives, align priorities across teams, and guide its evolution over time.\n\nMultiple initiatives were in motion, but there was no clear way to connect strategic priorities, team activities, deliverables, and their contribution to global OKRs into a coherent operational view.",
+      "shift": "From — Distributed initiatives with limited visibility and alignment\nTo — A structured system connecting strategy, execution, and performance",
+      "contribution": "Owned the design and structuring of the discipline's operational system and its yearly reporting model.\n\nDefined how strategic priorities translate into activities, deliverables, and measurable outcomes, and built the report as a tracking mechanism to make this system visible — connecting strategy, execution, and contribution to business objectives.",
+      "key_moves_and_learnings": [
+        "— Structured the discipline around clear strategic pillars\n— Organized all initiatives under a shared framework connecting customer impact, operational excellence, and team evolution",
+        "— Defined the logic linking strategy to execution\n— Connected priorities, activities, deliverables, and OKRs into a single system",
+        "— Designed the yearly planning and backlog construction process\n— Enabled teams to review, prioritize, and define initiatives aligned with the next strategic cycle",
+        "— Built a measurable tracking system\n— Made visible progress across 29 activities and 54 deliverables, including contribution to global OKRs",
+        "— Integrated cross-functional collaboration into the model\n— Connected design with insights, strategy, and business teams through shared planning and execution",
+        "— Positioned the report as an operational tool, not just communication\n— Enabled continuous alignment, decision-making, and strategic evolution"
+      ],
+      "outcome": [
+        "Clear visibility of design's contribution to global strategy and OKRs",
+        "Improved alignment across teams, initiatives, and deliverables",
+        "A structured backlog and planning system adopted across the discipline",
+        "Increased ability to evolve strategy year over year based on measurable progress",
+        "Stronger positioning of design as a strategic and operational driver within the organization"
+      ]
+    },
+    {
+      "case_id": "featured_04",
+      "source_project_slugs": ["bbva-redesigning-the-core-personal-account-product-strategy"],
+      "title": "Transforming core banking products into a coherent system",
+      "specialty": "Product and Service Strategy",
+      "filter": "ECOSYSTEM",
+      "keywords": ["Product Architecture", "Financial Health", "Service Design", "Product Ecosystems", "Banking"],
+      "framing": "BBVA's core products — accounts and cards — functioned as isolated solutions, shaped by a bank-centric logic and fragmented across channels and lifecycle moments.\n\nWhile they supported key financial operations, they lacked a unifying structure that could connect product features, experiences, and services into a coherent system aligned with customer needs and strategic intent.",
+      "shift": "From — Fragmented, feature-driven products\nTo — A unified product system grounded in financial health",
+      "contribution": "As part of the core design team driving the initiative, I contributed to reframing BBVA's core products into a unified system.\n\nMy focus was on defining the product architecture and translating strategic principles into operational logic — connecting products, features, services, channels, and lifecycle experiences into a structure that could guide product decisions and prioritization.",
+      "key_moves_and_learnings": [
+        "— Reframed products around financial health as a unifying principle\n— Shifted the logic from product-centric to outcome-driven design",
+        "— Structured a product architecture model\n— Defined relationships between accounts, cards, services, and features",
+        "— Connected product definition with lifecycle and channel experiences\n— Ensured consistency across digital and assisted touchpoints",
+        "— Translated strategic intent into operational frameworks\n— Enabled teams to align on priorities and structure product evolution",
+        "— Worked across product, design, business, and technology\n— Facilitated shared understanding in a highly cross-functional environment"
+      ],
+      "outcome": [
+        "Clearer structure for how core products operate as a system",
+        "Improved alignment in product decision-making and prioritization",
+        "Increased coherence across product features, services, and experiences",
+        "Foundation for scaling a shared product methodology across teams"
+      ]
+    },
+    {
+      "case_id": "featured_05",
+      "source_project_slugs": ["vml-the-cocktail-building-and-operationalizing-a-strategic-foresight-capability"],
+      "title": "Building a foresight capability beyond exploration into execution",
+      "specialty": "Strategic Foresight",
+      "filter": "ECOSYSTEM",
+      "keywords": ["Foresight", "Scenario Planning", "Capability Building", "Innovation Strategy", "Thought Leadership"],
+      "framing": "Interest in strategic foresight was growing both internally and from clients, but the capability was still emerging and unevenly developed.\n\nThere was no shared practice that allowed teams to respond consistently to demand, nor a clear way to connect foresight work to concrete business, product, or technology outcomes.",
+      "shift": "From — Foresight as exploratory research and isolated initiatives\nTo — A shared capability connecting future scenarios to actionable strategies and solutions",
+      "contribution": "Led the development and scaling of a strategic foresight capability within the organization.\n\nFocused on building a shared practice that combined methodology, enablement, and commercial application — connecting foresight to business strategy, design, and technology to move from exploration into execution.",
+      "key_moves_and_learnings": [
+        "— Positioned foresight beyond trend analysis into strategic and operational impact\n— Expanded its role from insight generation to shaping products, services, and solutions",
+        "— Built a shared methodology and toolkit\n— Enabled teams to apply foresight consistently across projects",
+        "— Developed internal capability through training, templates, and rituals\n— Allowed the practice to scale beyond a single team",
+        "— Connected foresight to commercial offerings and business development\n— Turned capability into a source of new opportunities",
+        "— Established thought leadership through reports, content, and events\n— Increased visibility and credibility internally and externally",
+        "— Leveraged cross-functional collaboration (strategy, technology, design)\n— Enabled translation of future scenarios into tangible solutions"
+      ],
+      "outcome": [
+        "Teams began incorporating foresight methodologies into projects where relevant",
+        "Increased internal credibility and recognition of the practice",
+        "Expanded use of foresight in sales proposals and positioning",
+        "Stronger engagement with senior stakeholders, including C-level conversations",
+        "Generated new business opportunities through foresight-led work"
+      ]
+    },
+    {
+      "case_id": "featured_06",
+      "source_project_slugs": ["nationale-nederlanden-senior-coverage-value-proposition-redesign"],
+      "title": "Shaping a new insurance product from an uncertain market opportunity",
+      "specialty": "Product and Service Strategy",
+      "filter": "VALUE PROPOSITION",
+      "keywords": ["Product Design", "Customer Insight", "Service Design", "Validation", "Insurance"],
+      "framing": "Nationale Nederlanden identified an emerging opportunity to develop a protection product for seniors, but the need was still diffuse and not clearly defined.\n\nWhile initial research provided directional insights, it was not sufficient to confidently define a product. The challenge was to build evidence around a scattered market need, and to use a concrete concept as a way to explore, test, and understand what a relevant product could be in today's context.",
+      "shift": "From — A diffuse opportunity with limited evidence\nTo — A validated product concept grounded in real customer needs",
+      "contribution": "Facilitated the definition and validation of a new insurance product as part of a team of service and strategic designers.\n\nLed workshops to define product features and shape the value proposition, and structured the validation process through qualitative research and interviews — using the concept as a tool to generate evidence, test assumptions, and refine the product.",
+      "key_moves_and_learnings": [
+        "— Framed the concept as a tool for exploration and validation\n— Used the product itself to generate evidence, not just to deliver a solution",
+        "— Facilitated workshops to define product features and value proposition\n— Aligned the team around a structured offer under uncertainty",
+        "— Structured and executed qualitative validation\n— Designed interviews to test understanding, relevance, and decision drivers",
+        "— Translated insights into product and service logic\n— Organized coverages, services, and modalities into a coherent system",
+        "— Tangibilized the concept into testable assets\n— Developed landing, product definition, and journey to enable validation",
+        "— Identified real value drivers beyond initial assumptions\n— Services such as caregiver support and family-oriented features proved more relevant than traditional coverage"
+      ],
+      "outcome": [
+        "A validated product concept grounded in real customer needs and decision drivers",
+        "Clearer understanding of the opportunity space and how to approach it",
+        "A structured value proposition and product logic aligned with market expectations",
+        "Tangible assets enabling internal alignment, validation, and future development"
+      ]
+    },
+    {
+      "case_id": "featured_07",
+      "source_project_slugs": [
+        "patronato-pikimachay-national-innovation-center-for-crafts",
+        "aecid-minprod-strengthening-peru-s-craft-service-ecosystem"
+      ],
+      "title": "Designing the Infrastructure for Craft Innovation in Peru",
+      "specialty": "Ecosystem Strategy",
+      "filter": "ECOSYSTEM",
+      "keywords": ["Public–Private Systems", "Innovation Infrastructure", "Service Design", "Economic Development", "Education"],
+      "framing": "Peru has one of the most culturally rich craft traditions, yet the ecosystem operates in a fragmented way — with disconnected initiatives, limited coordination between institutions, and weak structures to support long-term economic development.\n\nThe project originated from a private stakeholder's intent to invest in the Ayacucho region, aiming to preserve craft heritage while generating economic opportunity. What began as the idea of a craft innovation center quickly revealed a broader challenge: not the lack of initiatives, but the absence of a system capable of connecting education, production, and market access.",
+      "shift": "From — Fragmented initiatives with limited coordination\nTo — A structured infrastructure connecting craft, education, and economic development",
+      "contribution": "Led the end-to-end development of the project — from defining the opportunity and shaping the offer, to designing the methodology, conducting research, and structuring the full system.\n\nDirected both the research and design work, defining the craft innovation center, its educational model, and the ecosystem programs required to connect stakeholders across public institutions, private investment, and local craft communities.",
+      "key_moves_and_learnings": [
+        "— Defined the opportunity and structured the initial offer\n— Positioned the project as an investment in both cultural preservation and economic development",
+        "— Developed the full research and design methodology\n— Conducted ecosystem analysis, stakeholder interviews, and synthesis to identify structural gaps",
+        "— Reframed the challenge from a single initiative to a system-level problem\n— Shifted focus from building a center to designing an infrastructure",
+        "— Designed the craft innovation center as a system node\n— Integrated research, education, innovation, and commercialization",
+        "— Defined the educational model and syllabus\n— Connected traditional craft knowledge with contemporary design and business practices",
+        "— Structured programs to strengthen the broader ecosystem\n— Focused on SMEs supporting artisans, aligned with real operational constraints",
+        "— Led stakeholder alignment across public and private actors\n— Connected local institutions, international organizations, and private stakeholders",
+        "— Learned that impact depends on articulation, not activity\n— Value comes from connecting existing efforts, not multiplying initiatives"
+      ],
+      "outcome": [
+        "A fully defined model for a craft innovation infrastructure, including center, programs, and ecosystem logic",
+        "Project roadmap ready for implementation, covering campus, syllabus, and operational structure",
+        "Secured interest and funding from international institutions, including Spanish Cooperation and the Inter-American Development Bank",
+        "One initiative awarded funding and activated as a program supporting SMEs within the craft ecosystem",
+        "Multiple yearly cycles executed, strengthening the network of professionals supporting artisan businesses",
+        "A scalable approach to connecting craft, education, and economic development"
+      ]
+    }
+  ],
+  "level_2_projects": [
+    {
+      "source_project_slug": "iberia-designing-an-omnichannel-self-service-ecosystem",
+      "year": "2026",
+      "client": "Iberia",
+      "role": "Senior Strategic Designer",
+      "title": "Designing an Omnichannel Self-Service Ecosystem",
+      "specialty": "Product and Service Strategy",
+      "filter": "ECOSYSTEM",
+      "keywords": ["Omnichannel", "Self-Service", "Journey Design", "Aviation"],
+      "core_tension": "Customers were defaulting to assisted channels because self-service journeys did not work coherently across touchpoints.",
+      "shift": "From — Fragmented self-service attempts\nTo — A coordinated self-service ecosystem",
+      "contribution": "Structured the target self-service logic across channels, aligning customer flows, service principles, and operational responsibilities.",
+      "outcome": "A clearer omnichannel service model aimed at reducing unnecessary calls and improving autonomous resolution.",
+      "confidential": true
+    },
+    {
+      "source_project_slug": "iberia-designing-an-nps-intelligence-framework-for-high-value-routes",
+      "year": "2026",
+      "client": "Iberia",
+      "role": "Senior Strategic Designer",
+      "title": "Designing an NPS Intelligence Framework for High-Value Routes",
+      "specialty": "Design Research",
+      "filter": "STRATEGY",
+      "keywords": ["NPS", "Performance Drivers", "Benchmarking", "Aviation"],
+      "core_tension": "The organization lacked a structured understanding of what was driving satisfaction and dissatisfaction on its most strategically important routes.",
+      "shift": "From — Broad NPS readings\nTo — Route-level experience drivers",
+      "contribution": "Built a mixed-methods framework combining interviews, benchmark analysis, and route-level data to identify actionable performance levers.",
+      "outcome": "Enabled more precise prioritization of experience improvements on high-value routes.",
+      "confidential": true
+    },
+    {
+      "source_project_slug": "iberia-defining-the-strategic-vision-for-the-integrated-operations-control-center",
+      "year": "2025",
+      "client": "Iberia",
+      "role": "Senior Strategic Designer",
+      "title": "Defining the Strategic Vision for the Integrated Operations Control Center",
+      "specialty": "System Strategy",
+      "filter": "ECOSYSTEM",
+      "keywords": ["Operations", "Control Center", "AI Integration", "Aviation"],
+      "core_tension": "Iberia needed a coherent vision for an operations control center integrating human teams, crisis logic, and AI.",
+      "shift": "From — Space-led thinking\nTo — Integrated operational system design",
+      "contribution": "Defined the systemic and spatial logic of the future iOCC through workflow mapping, scenario modeling, and organizational design.",
+      "outcome": "A strategic blueprint aligning teams around a future-ready model for coordination and decision-making.",
+      "confidential": true
+    },
+    {
+      "source_project_slug": "private-conceptual-and-architectural-strategy-for-a-vacation-home",
+      "year": "2022",
+      "client": "Private",
+      "role": "Design Co-lead",
+      "title": "Conceptual and Architectural Strategy for a Vacation Home",
+      "specialty": "Space Strategy",
+      "filter": "SPACE",
+      "keywords": ["Architecture", "Concept Development", "Materials", "Environment"],
+      "core_tension": "The client needed a coherent concept and business rationale grounded in site conditions and material logic.",
+      "shift": "From — Intuitive brief\nTo — Environment-led architectural concept",
+      "contribution": "Led environmental, geospatial, and material research to define the concept, architectural direction, and business case.",
+      "outcome": "A concept-level strategy ready to guide the next phase of development.",
+      "confidential": false
+    },
+    {
+      "source_project_slug": "bbva-redefining-the-young-segment-value-proposition",
+      "year": "2022–2024",
+      "client": "BBVA",
+      "role": "Design Co-lead",
+      "title": "Redefining the Young Segment Value Proposition",
+      "specialty": "Service Design",
+      "filter": "VALUE PROPOSITION",
+      "keywords": ["Segmentation", "Personas", "MVP", "Banking"],
+      "core_tension": "BBVA's young-segment offer was not resonating and lacked a differentiated proposition grounded in real behaviors and aspirations.",
+      "shift": "From — Generic segment offer\nTo — Research-based product direction",
+      "contribution": "Co-led mixed-methods research and translated findings into persona logic, value proposition architecture, and MVP prioritization.",
+      "outcome": "A clearer strategic direction for the segment and a more grounded basis for product prioritization.",
+      "confidential": false
+    },
+    {
+      "source_project_slug": "ie-university-bachelor-thesis-advisory-program",
+      "year": "2023–Now",
+      "client": "IE University",
+      "role": "Adjunct Professor",
+      "title": "Bachelor Thesis Advisory Program",
+      "specialty": "Mentorship",
+      "filter": "EDUCATION",
+      "keywords": ["Education", "Methodology", "Critique", "Design Research"],
+      "core_tension": "Students needed structured methodological support to turn research and concepts into rigorous thesis work.",
+      "shift": "From — Dispersed academic effort\nTo — Structured thesis development",
+      "contribution": "Guided students through research design, critique loops, and evaluation standards across their thesis process.",
+      "outcome": "Supported stronger, more defensible final thesis outcomes.",
+      "confidential": false
+    },
+    {
+      "source_project_slug": "various-smes-sme-strategic-pop-up-accelerator",
+      "year": "2020–2021",
+      "client": "Various SMEs",
+      "role": "Co-founder",
+      "title": "SME Strategic Pop-Up Accelerator",
+      "specialty": "Business Design",
+      "filter": "EDUCATION",
+      "keywords": ["SMEs", "Acceleration", "Strategy", "Business Models"],
+      "core_tension": "Small businesses lacked structured ways to diagnose their position and define growth actions quickly.",
+      "shift": "From — Informal business decisions\nTo — Structured acceleration support",
+      "contribution": "Designed an accelerator format to help SMEs translate challenges into clearer priorities and business actions.",
+      "outcome": "A practical support model for improving strategic clarity in small businesses.",
+      "confidential": false
+    },
+    {
+      "source_project_slug": "aegon-designing-an-internal-innovation-toolkit",
+      "year": "2021",
+      "client": "Aegon",
+      "role": "Consultant",
+      "title": "Designing an Internal Innovation Toolkit",
+      "specialty": "Innovation Strategy",
+      "filter": "STRATEGY",
+      "keywords": ["Toolkit", "Innovation", "Enablement", "Insurance"],
+      "core_tension": "Innovation efforts lacked a shared toolkit to support teams in exploring and structuring opportunities consistently.",
+      "shift": "From — Ad hoc innovation practice\nTo — Shared innovation toolkit",
+      "contribution": "Designed tools and guidance to help internal teams frame, explore, and develop innovation initiatives.",
+      "outcome": "A more structured way for teams to approach internal innovation work.",
+      "confidential": false
+    },
+    {
+      "source_project_slug": "gancedo-leading-the-strategic-and-brand-reset",
+      "year": "2019",
+      "client": "Gancedo",
+      "role": "Design Lead",
+      "title": "Leading the Strategic and Brand Reset",
+      "specialty": "Brand Strategy",
+      "filter": "STRATEGY",
+      "keywords": ["Brand Reset", "Positioning", "Narrative", "Home & Textiles"],
+      "core_tension": "The brand needed a clearer strategic direction and renewed positioning.",
+      "shift": "From — Diffuse brand direction\nTo — Sharper strategic identity",
+      "contribution": "Led the strategic reframing of the brand and aligned its expression around a renewed direction.",
+      "outcome": "A clearer basis for brand evolution and communication.",
+      "confidential": false
+    },
+    {
+      "source_project_slug": "ied-madrid-establishing-and-scaling-the-strategic-design-practice",
+      "year": "2014–2018",
+      "client": "IED Madrid",
+      "role": "Design Lead",
+      "title": "Establishing the Strategic Design Practice and Research Center",
+      "specialty": "Organizational Strategy",
+      "filter": "OPERATIONS",
+      "keywords": ["Practice Building", "Education", "Design Leadership", "Research", "Institution Building"],
+      "core_tension": "IED Madrid lacked a structured strategic design offer and the research and educational infrastructure to support it.",
+      "shift": "From — Emerging capability without operational or research foundation\nTo — A structured practice with a defined offer, methodology, and research center",
+      "contribution": "Built the practice model, methodologies, and positioning needed to establish and grow strategic design within the institution. Simultaneously defined the research center's logic, programs, and development direction across research and education activities.",
+      "outcome": "A clearer internal and external definition of the practice, its offer, and a stronger foundation for connecting research, learning, and external partnerships.",
+      "confidential": false
+    },
+    {
+      "source_project_slug": "ied-madrid-creative-industries-growth-network-program",
+      "year": "2017",
+      "client": "IED Madrid",
+      "role": "Design Lead",
+      "title": "Creative Industries Growth Network Program",
+      "specialty": "Organizational Strategy",
+      "filter": "STRATEGY",
+      "keywords": ["Networks", "Creative Industries", "Growth", "Programs"],
+      "core_tension": "Creative-industry actors needed stronger structures for exchange, growth, and collaboration.",
+      "shift": "From — Isolated actors\nTo — Structured growth network",
+      "contribution": "Designed a program to connect participants around shared learning, collaboration, and growth opportunities.",
+      "outcome": "A stronger network model for collective development in the creative industries.",
+      "confidential": false
+    },
+    {
+      "source_project_slug": "various-impact-startup-mentorship-program",
+      "year": "2016–2018",
+      "client": "Various",
+      "role": "Program Advisor",
+      "title": "Impact Startup Mentorship Program",
+      "specialty": "Mentorship",
+      "filter": "EDUCATION",
+      "keywords": ["Startups", "Mentoring", "Impact", "Business Design"],
+      "core_tension": "Early-stage impact startups needed sharper guidance to structure opportunities and decisions.",
+      "shift": "From — Early uncertainty\nTo — Better-framed startup direction",
+      "contribution": "Mentored founders through strategic, design, and business questions to help sharpen their proposals.",
+      "outcome": "More structured thinking and clearer direction for participating startups.",
+      "confidential": false
+    },
+    {
+      "source_project_slug": "various-il-carello-retail-furniture-series",
+      "year": "2013",
+      "client": "Various",
+      "role": "Industrial Designer",
+      "title": "Il Carello Retail Furniture Series",
+      "specialty": "Product Design",
+      "filter": "PRODUCT",
+      "keywords": ["Furniture", "Retail", "Series Design", "Manufacturing"],
+      "core_tension": "The project needed a furniture series that balanced design intent, retail logic, and production constraints.",
+      "shift": "From — Isolated furniture ideas\nTo — A coherent retail series",
+      "contribution": "Developed the furniture series with attention to product coherence, retail use, and feasibility.",
+      "outcome": "A clearer product direction for a retail-oriented furniture line.",
+      "confidential": false
+    },
+    {
+      "source_project_slug": "hiscox-redesign-at-bishopsgate-22",
+      "year": "2016",
+      "client": "Hiscox",
+      "role": "Senior Strategic Designer",
+      "title": "Redesign at Bishopsgate 22",
+      "specialty": "Space Strategy",
+      "filter": "SPACE",
+      "keywords": ["Space", "Experience", "Workplace", "Insurance"],
+      "core_tension": "The space required a clearer strategic and experiential redesign to support how it should be used.",
+      "shift": "From — Under-defined spatial experience\nTo — More intentional workplace environment",
+      "contribution": "Helped rethink the space and its experience logic to better align environment, use, and brand.",
+      "outcome": "A more coherent direction for the redesign of the site.",
+      "confidential": false
+    },
+    {
+      "source_project_slug": "mincetur-promper-per-designnet-national-design-innovation-network",
+      "year": "2014–2016",
+      "client": "Mincetur — PromPerú",
+      "role": "Design Lead",
+      "title": "PerúDesignNet National Design & Innovation Network",
+      "specialty": "Ecosystem Strategy",
+      "filter": "ECOSYSTEM",
+      "keywords": ["National Network", "Design", "Innovation", "Public Sector"],
+      "core_tension": "The country lacked a stronger connective structure for design and innovation actors to collaborate and scale impact.",
+      "shift": "From — Disconnected initiatives\nTo — National network logic",
+      "contribution": "Helped define a network model to connect institutions, opportunities, and actors around design and innovation.",
+      "outcome": "A clearer strategic basis for building national coordination.",
+      "confidential": false
+    },
+    {
+      "source_project_slug": "ied-madrid-masters-in-design-innovation-value-proposition",
+      "year": "2013",
+      "client": "IED Madrid",
+      "role": "Design Lead",
+      "title": "Masters in Design & Innovation Value Proposition",
+      "specialty": "Program Strategy",
+      "filter": "VALUE PROPOSITION",
+      "keywords": ["Education", "Masters Program", "Positioning", "Value Proposition"],
+      "core_tension": "The program needed a sharper value proposition to clarify why it mattered and for whom.",
+      "shift": "From — Generic academic positioning\nTo — More differentiated program offer",
+      "contribution": "Defined the program's value proposition and clarified its positioning, audience, and promise.",
+      "outcome": "A stronger basis for communicating and shaping the program.",
+      "confidential": false
+    },
+    {
+      "source_project_slug": "ballota-design-for-production-of-two-48ft-catamarans",
+      "year": "2011–2012",
+      "client": "Ballota",
+      "role": "Designer",
+      "title": "Design for Production of Two 48ft Catamarans",
+      "specialty": "Product Development",
+      "filter": "PRODUCT",
+      "keywords": ["Maritime", "Production Design", "Catamarans", "Engineering"],
+      "core_tension": "The project needed to translate design intent into production-ready development for two vessels.",
+      "shift": "From — Design concept\nTo — Production-oriented resolution",
+      "contribution": "Worked on the design-to-production transition, aligning development decisions with build constraints.",
+      "outcome": "A stronger basis for moving the vessels into production.",
+      "confidential": false
+    }
+  ]
+}
