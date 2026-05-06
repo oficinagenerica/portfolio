@@ -1,0 +1,16 @@
+.env
+credentials.json
+token.json
+.tmp/
+__pycache__/
+*.pyc
+
+# Project management — not part of the website
+.DS_Store
+.claude/
+CLAUDE.md
+Design.md
+tools/
+workflows/
+start.sh
+frontend/
